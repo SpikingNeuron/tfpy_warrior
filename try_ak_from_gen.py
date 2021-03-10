@@ -1,3 +1,9 @@
+"""
+Bug submitted at
+https://github.com/keras-team/autokeras/issues/1528
+
+"""
+
 import tensorflow as tf
 import numpy as np
 import autokeras as ak
